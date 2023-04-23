@@ -1,0 +1,27 @@
+Last login: Sat Apr 22 17:39:47 on ttys000
+(base) tylerte@Tylers-MacBook-Pro-3 ~ % cd /Volumes/"Tyler Te"
+(base) tylerte@Tylers-MacBook-Pro-3 Tyler Te % ls
+CSE111				Code Academy
+CSE150				System Volume Information
+CSE40
+(base) tylerte@Tylers-MacBook-Pro-3 Tyler Te % cd "Code Academy"
+(base) tylerte@Tylers-MacBook-Pro-3 Code Academy % ls
+fullstack-practice			fullstack-practice-not-in-git-repo
+(base) tylerte@Tylers-MacBook-Pro-3 Code Academy % cd "fullstack-practice"
+(base) tylerte@Tylers-MacBook-Pro-3 fullstack-practice % ls
+Build Your Own Cheat Sheet	index.html
+Dasmotos-Arts&Crafts		mixed-messages
+(base) tylerte@Tylers-MacBook-Pro-3 fullstack-practice % cd "mixed-messages"
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % ls
+quoteGenerator.js
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % node quoteGenerator.js
+Your friend can overcome all challenges.
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % node quoteGenerator.js
+Your colleague can overcome great success.
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % node quoteGenerator.js
+You will master all challenges.
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % node quoteGenerator.js
+Your colleague can overcome all challenges.
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % node quoteGenerator.js
+Your family can achieve any obstacle.
+(base) tylerte@Tylers-MacBook-Pro-3 mixed-messages % 
